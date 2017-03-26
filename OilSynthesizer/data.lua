@@ -1,0 +1,7 @@
+require("prototypes.item")
+require("prototypes.recipe")
+require("prototypes.item")
+require("prototypes.fluid")
+require("prototypes.fluid-recipe")
+require("prototypes.furnace-recipe")
+require("prototypes.technology")
